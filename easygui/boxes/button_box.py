@@ -80,7 +80,7 @@ def buttonbox(msg="",
     :param str title: the window title
     :param list choices: a list or tuple of the choices to be displayed
     :param str image: (Only here for backward compatibility)
-    :param str images: Filename of image or iterable or iteratable of iterable to display
+    :param str images: Filename of image or iterable of filenames to display
     :param str default_choice: The choice you want highlighted when the gui appears
     :return: the text of the button that the user selected
 
